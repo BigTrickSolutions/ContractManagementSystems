@@ -4,3 +4,11 @@ E:\svnContractSystems\ContractSystems\ContractSystems\obj\x86\Debug\ContractSyst
 E:\svnContractSystems\ContractSystems\ContractSystems\obj\x86\Debug\ContractSystems.csproj.GenerateResource.Cache
 E:\svnContractSystems\ContractSystems\ContractSystems\obj\x86\Debug\ContractSystems.exe
 E:\svnContractSystems\ContractSystems\ContractSystems\obj\x86\Debug\ContractSystems.pdb
+E:\svnContractSystems\ContractManagementSystems\ContractSystems\ContractSystems\obj\x86\Debug\ContractSystems.exe
+E:\svnContractSystems\ContractManagementSystems\ContractSystems\ContractSystems\obj\x86\Debug\ContractSystems.pdb
+E:\svnContractSystems\ContractManagementSystems\ContractSystems\ContractSystems\bin\Debug\ContractSystems.exe
+E:\svnContractSystems\ContractManagementSystems\ContractSystems\ContractSystems\bin\Debug\ContractSystems.pdb
+E:\svnContractSystems\ContractManagementSystems\ContractSystems\ContractSystems\obj\x86\Debug\ContractSystems.Form1.resources
+E:\svnContractSystems\ContractManagementSystems\ContractSystems\ContractSystems\obj\x86\Debug\ContractSystems.Properties.Resources.resources
+E:\svnContractSystems\ContractManagementSystems\ContractSystems\ContractSystems\obj\x86\Debug\ContractSystems.SystemManagement.UserControl1.resources
+E:\svnContractSystems\ContractManagementSystems\ContractSystems\ContractSystems\obj\x86\Debug\ContractSystems.csproj.GenerateResource.Cache
