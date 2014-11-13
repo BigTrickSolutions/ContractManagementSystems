@@ -1,0 +1,6 @@
+E:\svnContractSystems\ContractSystems\ContractSystems\bin\Debug\ContractSystems.exe
+E:\svnContractSystems\ContractSystems\ContractSystems\bin\Debug\ContractSystems.pdb
+E:\svnContractSystems\ContractSystems\ContractSystems\obj\x86\Debug\ContractSystems.Properties.Resources.resources
+E:\svnContractSystems\ContractSystems\ContractSystems\obj\x86\Debug\ContractSystems.csproj.GenerateResource.Cache
+E:\svnContractSystems\ContractSystems\ContractSystems\obj\x86\Debug\ContractSystems.exe
+E:\svnContractSystems\ContractSystems\ContractSystems\obj\x86\Debug\ContractSystems.pdb
